@@ -1,3 +1,5 @@
 <Solution>
   <Project Path="CodeLab.InBoxPattern.Api/CodeLab.InBoxPattern.Api.csproj" />
+  <Project Path="CodeLab.InBoxPattern.AppHost/CodeLab.InBoxPattern.AppHost.csproj" />
+  <Project Path="CodeLab.InBoxPattern.ServiceDefaults/CodeLab.InBoxPattern.ServiceDefaults.csproj" />
 </Solution>
